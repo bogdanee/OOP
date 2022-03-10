@@ -1,0 +1,21 @@
+[2021-05-17 13:38:41] [info] Start Program:
+Path:"C:\\Users\\bogda\\Desktop\\UBB\\SEMESTRUL 2\\OOP\\OOP_lab_10_11\\x64\\Debug\\OOP_lab_10_11.exe"
+Arguments:
+Working directory: "C:\\Users\\bogda\\Desktop\\UBB\\SEMESTRUL 2\\OOP\\OOP_lab_10_11\\OOP_lab_10_11\\"
+Modules: Selected: C:\Users\bogda\Desktop\UBB\SEMESTRUL 2\OOP\OOP_lab_10_11\x64\Debug\OOP_lab_10_11.exe Excluded: 
+Sources: Selected: C:\Users\bogda\Desktop\UBB\SEMESTRUL 2\OOP\OOP_lab_10_11\OOP_lab_10_11 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\bogda\AppData\Local\Temp\rvnd5wqy.5og 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-17 13:38:41] [info] Module: C:\Users\bogda\Desktop\UBB\SEMESTRUL 2\OOP\OOP_lab_10_11\x64\Debug\OOP_lab_10_11.exe is selected because it matches selected pattern: C:\Users\bogda\Desktop\UBB\SEMESTRUL 2\OOP\OOP_lab_10_11\x64\Debug\OOP_lab_10_11.exe
+[2021-05-17 13:38:41] [info] ----------------------------------------------------
+[2021-05-17 13:38:41] [info] Coverage binary generated in file: C:\Users\bogda\AppData\Local\Temp\rvnd5wqy.5og
+[2021-05-17 13:38:41] [info] ----------------------------------------------------
